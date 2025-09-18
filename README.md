@@ -46,9 +46,9 @@ Trigger Logic: Vehicles’ stats updated manually via GUI buttons (Add/Remove Ve
 ##Screenshots
 Include 2–3 screenshots showing:
 
-file:///home/user/Pictures/Screenshots/Screenshot%20from%202025-09-18%2013-43-19.png
+<img width="1366" height="768" alt="Screenshot from 2025-09-18 13-43-19" src="https://github.com/user-attachments/assets/73161e30-2f18-4a88-8650-49ee7798bfc6" />
 
-file:///home/user/Pictures/Screenshots/Screenshot%20from%202025-09-18%2013-44-47.png
+![Uploading Screenshot from 2025-09-18 13-44-47.png…]()
 
 
 ---
