@@ -17,7 +17,6 @@ The Wireless Fleet Tracker monitors and logs vehicle behavior for fleet manageme
 ## Setup Instructions
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/marthanjoel/Wierless-fleet-tracker.git
 cd wireless-fleet-tracker
 2. (Optional) Create Virtual Environment
